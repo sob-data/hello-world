@@ -3,7 +3,7 @@ My first repository
 
 Hi everybody! 
 
-I finally decided to join GitHub. Woo-hoo!
+I finally joined GitHub. Woo-hoo!
 
 I bet you all R very excited!
 
